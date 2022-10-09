@@ -93,7 +93,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
 </tr>
 </table>
 
-<br/>
+<!-- <br/>
 <div>
   <a href="https://raw.githubusercontent.com/all-smile/nav/master/static/images/buymeacoffee.jpg" target="_blank" style="display: inline-block;">
     <img
@@ -101,4 +101,4 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
         align="center"
     />
   </a>
-</div>
+</div> -->
