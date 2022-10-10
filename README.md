@@ -45,8 +45,8 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&theme=flag-india)](https://github.com/all-smile/github-readme-stats) -->
 
-[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact" height=180/></span><span><img src="https://github-readme-stats.vercel.app/api?username=all-smile&count_private=true&show_icons=true" height=180/></span>](https://home.i-xiao.space/blog/)
-
+<!-- [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact" height=180/></span><span><img src="https://github-readme-stats.vercel.app/api?username=all-smile&count_private=true&show_icons=true" height=180/></span>](https://home.i-xiao.space/blog/)
+-->
 
 <!-- <table border="0"  width="80%">
 <tr>
@@ -65,10 +65,15 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/all-smil
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=all-smile&show_icons=true)
  -->
 
+
+| <a width="50%"  href="https://github.com/anuraghazra/github-readme-stats"><img align="center"   height="180" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center"  height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
+
+
 ### My Skill Set
 <table><tr><td valign="top" width="100%">
-
-
 
 #### Frontend
 <div align="center">
